@@ -1,0 +1,26 @@
+label.form{
+display: block;
+width: 150px;
+float: left;
+margin-top: 15px;
+}
+input.form{
+  margin-top: 15px;
+}
+select.form{
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+.black-background {background-color:#000000;}
+.white {color:#ffffff;}
+
+fieldset{
+  margin-top: 30px;
+width: 500px;
+text-align: left;
+margin-left:auto;
+margin-right:auto;
+padding: 20px;
+background-color: rgba(214, 214, 214, 0.36);
+border-radius: 20px;
+}
